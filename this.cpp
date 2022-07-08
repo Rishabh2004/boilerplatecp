@@ -15,5 +15,5 @@ int main(){
     cin>>tt ; 
     while(tt--){
         solve() ;
-    }
+   }
 }
